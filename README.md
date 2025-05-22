@@ -1,8 +1,8 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-Computação em resumo ofecere serviços de Ti pela internet.
-Uma empresa que utiliza serviços de nuvem tem seus proprios datacenter.
+Computação em nuvem em resumo ofecere serviços de Ti pela internet.
+Uma empresa que não utiliza serviços de nuvem tem seus proprios datacenter.
 Nuvem são grandes datacenters espalhados globalmente.
 Um datacenter em nuvem oferece diversos serviços como, máquinas virtuais, serviços de redes, serviços de armazenamento, serviços de banco de dados, etc.
 A nuvem pode ser privada, pública e hibrida.
@@ -12,3 +12,9 @@ Uma nuvem hibrida funciona tanto no modelo privado como no modelo publico.
 Um exemplo de modelo hibrido: a empresa tem um portal de vendas, o banco de dados fica hospedado no modelo privado equando que o portal fica hospedado no modelo publico e assim somente pessoas autorizada tem acesso ao banco de dados no modelo privado.
 As empresas que reduz bastante os custos e não precisa ficar esperando pelo uso do recurso, diferente do modelo antigo que se precisar adquirir um uma máquina iria esperar por meses, enquanto que o uso da máquina ou recurso solicitado seria quase que imediato.
 existem muitos beneficios na utilização de serviços em nuvem, como, segurança, disponibilidade,escalabilidade e redundância.
+Uma nuvem contem regions e dentro dessa region contem uma ou mais localizações
+em uma nuvem você pode criar maquinas virtuais,aplicativos web, armazenamento, containers etc
+em uma nuvem você também tem responsabilidades compartilhada
+Azure function são funcões no azures que pode ser acionada por gatilho e vc pode programar essas funções utilizando diversas linguagens de programaçã como .net, java, nodejs etc
+
+
